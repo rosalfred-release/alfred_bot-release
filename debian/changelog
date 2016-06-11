@@ -1,0 +1,17 @@
+ros-indigo-alfred-bot (0.1.121-0saucy) saucy; urgency=high
+
+  * Update eclipse project.
+  * Update package dependencies
+    Update messages packages names
+  * Contributors: Erwan Le Huitouze, Mickael Gaillard
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Fri, 10 Jun 2016 22:00:00 -0000
+
+ros-indigo-alfred-bot (0.1.120-0saucy) saucy; urgency=high
+
+  * Add node
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 22:00:00 -0000
+
+
